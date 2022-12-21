@@ -1,7 +1,7 @@
 # Tuning helper for the yaesu ft-dx10 - by DB8TS, 2022-12
 # this script sets mode to cw-l, power to 5W and keys the
 # transmitter for a given period of time. After transmitting
-# previous moder and power settings are restored. 
+# previous mode and power settings are restored. 
 
 import serial       # (python -m pip install pyserial)
 import keyboard     # (python -m pip install keyboard)
